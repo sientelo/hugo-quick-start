@@ -1,6 +1,5 @@
 +++
 date = 2020-04-06T23:00:00Z
-draft = true
 title = "test page"
 
 +++
