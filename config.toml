@@ -1,4 +1,4 @@
-baseURL = "https://hugo.onrender.com"
+baseURL = "https://ampagram.com"
 languageCode = "en-us"
 theme = "ananke"
-title = "Deploy Ampa on Render"
+title = "Ampagram"
